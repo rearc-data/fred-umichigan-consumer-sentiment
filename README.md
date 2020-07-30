@@ -20,7 +20,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, UMCSENT`
 
-The `UMCSENT` column represents the index at the time of the corresponding `DATE`.  
+The `UMCSENT` column represents the consumer sentiment index at the time of the corresponding `DATE`.  
 
 
 ## More Information
