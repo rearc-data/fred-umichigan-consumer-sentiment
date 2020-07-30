@@ -1,0 +1,1 @@
+This release contains information on the consumer sentiment index. Consumer sentiment index is a way to measure how confident the general public feels about the short-term economy, long-term economy, and their finances. Around 500 people in the United States are interviewed monthly to collect this data provided by the University of Michigan.
