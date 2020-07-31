@@ -5,7 +5,7 @@
 University of Michigan: Consumer Sentiment | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-6p5zivh4fmk52](https://aws.amazon.com/marketplace/pp/prodview-6p5zivh4fmk52).
 
 ## Main Overview
 
